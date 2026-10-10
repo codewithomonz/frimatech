@@ -407,7 +407,7 @@ export const metadata: Metadata = {
   },
 };
 
-const FOUNDER_PHOTO = "/main.png";
+const FOUNDER_PHOTO = "/musa-img.png";
 
 const timeline: TimelineItem[] = [
   {
